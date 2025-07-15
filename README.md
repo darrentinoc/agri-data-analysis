@@ -23,7 +23,7 @@ agri-data-analysis/
 ```
 2. Instala los paquetes necesarios:
 ```
-
+pip install openpyxl
 ```
 3. Abre el notebook:
 ```
