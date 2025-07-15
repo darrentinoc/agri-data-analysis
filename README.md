@@ -19,7 +19,7 @@ agri-data-analysis/
 ## Cómo usar
 1. Clona el repositorio:
 ```
-
+https://github.com/darrentinoc/agri-data-analysis.git
 ```
 2. Instala los paquetes necesarios:
 ```
