@@ -19,7 +19,7 @@ agri-data-analysis/
 ## Cómo usar
 1. Clona el repositorio:
 ```
-https://github.com/darrentinoc/agri-data-analysis.git
+codespace-scaling-space-journey-q79794x5v5w4h45r6
 ```
 2. Instala los paquetes necesarios:
 ```
