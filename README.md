@@ -32,7 +32,7 @@ jupyter notebook analisis_productos.ipynb
 ```
 
 ## Contenido
--`productos_agricolas_grande.csv`: Dataset simulado con 1000 registros de productos agrícolas.
+- `productos_agricolas_grande.csv`: Dataset simulado con 1000 registros de productos agrícolas.
 - `analisis_productos.ipynb`: Notebook para explorar datos, calcular estadísticas y visualizar información clave.
 - `requirements.txt`: Lista de dependencias Python.
 
