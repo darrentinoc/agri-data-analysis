@@ -6,7 +6,7 @@ Se incluyen limpieza de datos, estadísticas descriptivas, visualizaciones bási
 ```
 agri-data-analysis/
 ├── data/
-│   └── productos_agricolas_grande.csv
+│   └── productos_agricolas.csv
 ├── notebooks/
 │   └── analisis_productos.ipynb
 ├── reports/
@@ -19,11 +19,11 @@ agri-data-analysis/
 ## Cómo usar
 1. Clona el repositorio:
 ```
-https://github.com/darrentinoc/data-analisis-agri.git
+git clone https://github.com/darrentinoc/agri-data-analysis.git
 ```
 2. Instala los paquetes necesarios:
 ```
-pip install openpyxl
+pip install -r requirements.txt
 ```
 3. Abre el notebook:
 ```
@@ -32,7 +32,7 @@ jupyter notebook analisis_productos.ipynb
 ```
 
 ## Contenido
--`productos_agricolas_grande.csv`: Dataset simulado con 1000 registros de productos agrícolas.
+- `productos_agricolas.csv`: Dataset simulado con 1000 registros de productos agrícolas.
 - `analisis_productos.ipynb`: Notebook para explorar datos, calcular estadísticas y visualizar información clave.
 - `requirements.txt`: Lista de dependencias Python.
 
@@ -50,5 +50,5 @@ jupyter notebook analisis_productos.ipynb
 - Puedes expandir el análisis agregando modelos predictivos, dashboards o informes avanzados.
 
 ---
-**Autor:** Darren Dedimar Tinoco Bañón
-**GitHub:** [https://github.com/darrentinoc]
+**Autor:** Darren Dedimar Tinoco Bañón  
+**GitHub:** [https://github.com/darrentinoc](https://github.com/darrentinoc)
