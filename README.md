@@ -19,11 +19,11 @@ agri-data-analysis/
 ## Cómo usar
 1. Clona el repositorio:
 ```
-
+https://github.com/darrentinoc/data-analisis-agri.git
 ```
 2. Instala los paquetes necesarios:
 ```
-
+pip install openpyxl
 ```
 3. Abre el notebook:
 ```
